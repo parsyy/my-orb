@@ -1,6 +1,6 @@
 # Orb Project Template
 
-[![CircleCI Build Status](https://circleci.com/gh/parsyy/.svg?style=shield "CircleCI Build Status")](https://circleci.com/gh/parsyy/) [![CircleCI Orb Version](https://badges.circleci.com/orbs/up-it-test/v1.svg)](https://circleci.com/orbs/registry/orb/up-it-test/v1) [![GitHub License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/parsyy//master/LICENSE) [![CircleCI Community](https://img.shields.io/badge/community-CircleCI%20Discuss-343434.svg)](https://discuss.circleci.com/c/ecosystem/orbs)
+[![CircleCI Build Status](https://circleci.com/gh/parsyy/main.svg?style=shield "CircleCI Build Status")](https://circleci.com/gh/parsyy/main) [![CircleCI Orb Version](https://badges.circleci.com/orbs/up-it-test/test.svg)](https://circleci.com/orbs/registry/orb/up-it-test/test) [![GitHub License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/parsyy/main/master/LICENSE) [![CircleCI Community](https://img.shields.io/badge/community-CircleCI%20Discuss-343434.svg)](https://discuss.circleci.com/c/ecosystem/orbs)
 
 
 
@@ -12,12 +12,12 @@ Additional READMEs are available in each directory.
 
 ## Resources
 
-[CircleCI Orb Registry Page](https://circleci.com/orbs/registry/orb/up-it-test/) - The official registry page of this orb for all versions, executors, commands, and jobs described.
+[CircleCI Orb Registry Page](https://circleci.com/orbs/registry/orb/up-it-test/main) - The official registry page of this orb for all versions, executors, commands, and jobs described.
 [CircleCI Orb Docs](https://circleci.com/docs/2.0/orb-intro/#section=configuration) - Docs for using and creating CircleCI Orbs.
 
 ### How to Contribute
 
-We welcome [issues](https://github.com/parsyy//issues) to and [pull requests](https://github.com/parsyy//pulls) against this repository!
+We welcome [issues](https://github.com/parsyy/main/issues) to and [pull requests](https://github.com/parsyy/main/pulls) against this repository!
 
 ### How to Publish
 * Create and push a branch with your new features.
